@@ -1,0 +1,10 @@
+C:\Users\danie\OneDrive\Documentos\SharpDevelop Projects\TP5\Ejercicio2\obj\Debug\Ejercicio2.csprojResolveAssemblyReference.cache
+C:\Users\danie\OneDrive\Documentos\SharpDevelop Projects\TP5\Ejercicio2\bin\Debug\Ejercicio2.exe
+C:\Users\danie\OneDrive\Documentos\SharpDevelop Projects\TP5\Ejercicio2\bin\Debug\Ejercicio2.pdb
+C:\Users\danie\OneDrive\Documentos\SharpDevelop Projects\TP5\Ejercicio2\obj\Debug\Ejercicio2.exe
+C:\Users\danie\OneDrive\Documentos\SharpDevelop Projects\TP5\Ejercicio2\obj\Debug\Ejercicio2.pdb
+C:\Users\Diego\Desktop\Ejercicio2\bin\Debug\Ejercicio2.exe
+C:\Users\Diego\Desktop\Ejercicio2\bin\Debug\Ejercicio2.pdb
+C:\Users\Diego\Desktop\Ejercicio2\obj\Debug\Ejercicio2.csprojResolveAssemblyReference.cache
+C:\Users\Diego\Desktop\Ejercicio2\obj\Debug\Ejercicio2.exe
+C:\Users\Diego\Desktop\Ejercicio2\obj\Debug\Ejercicio2.pdb
